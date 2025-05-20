@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Laravel API Authentication Project
 
 This is a Laravel-based backend API that includes:
@@ -16,6 +16,12 @@ This is a Laravel-based backend API that includes:
 - `POST /api/login` – Login and receive token
 - `GET /api/profile` – View user profile (needs Bearer token)
 - `POST /api/logout` – Logout user
+
+## 🧪 Tools Used
+
+- **Laravel 10**
+- **Sanctum**
+- **Postman** (for testing API endpoints)
 
 ## Postman Testing
 
@@ -36,4 +42,11 @@ php artisan serve
 =======
 # laravel-api-auth
 This is a Laravel 10-based RESTful API for user authentication, including registration, login, profile access, and logout, all tested with Postman. It uses Laravel Sanctum for secure API token authentication.
->>>>>>> 0e76bff9801e3ea0fb2dfced07aa499d0610712a
+
+## 👩‍💻 Project by
+
+**Nabeela Fatima**  
+PHP Developer  
+📧 nabeelafatima411@gmail.com  
+
+ 🔒 Note: `.env` file is excluded for security reasons. Run `php artisan key:generate` after cloning.
