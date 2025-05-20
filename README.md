@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel API Authentication Project
 
 This is a Laravel-based backend API that includes:
@@ -32,3 +33,7 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
+=======
+# laravel-api-auth
+This is a Laravel 10-based RESTful API for user authentication, including registration, login, profile access, and logout, all tested with Postman. It uses Laravel Sanctum for secure API token authentication.
+>>>>>>> 0e76bff9801e3ea0fb2dfced07aa499d0610712a
